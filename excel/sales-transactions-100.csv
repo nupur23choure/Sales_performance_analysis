@@ -1,0 +1,101 @@
+date,region,product,channel,units,unit_price,revenue
+2024-07-01,LATAM,Desk Lamp,Retail,36,64.22,2311.92
+2024-07-08,EMEA,HD Webcam,Partner,28,26.17,732.76
+2024-07-16,North America,Desk Lamp,Retail,19,64.22,1220.18
+2024-07-23,EMEA,Mechanical Keyboard,Online,38,210.43,7996.34
+2024-07-30,LATAM,Portable SSD,Online,3,41.29,123.87
+2024-08-07,EMEA,Laptop Stand,Partner,16,14.78,236.48
+2024-08-14,North America,Mechanical Keyboard,Retail,31,210.43,6523.33
+2024-08-22,North America,Laptop Stand,Online,19,14.78,280.82
+2024-08-29,North America,USB-C Hub,Partner,4,100.72,402.88
+2024-09-05,APAC,Wireless Mouse,Online,38,34.72,1319.36
+2024-09-13,ANZ,Mechanical Keyboard,Partner,40,210.43,8417.2
+2024-09-20,North America,USB-C Hub,Partner,8,100.72,805.76
+2024-09-27,North America,Mechanical Keyboard,Retail,25,210.43,5260.75
+2024-10-05,EMEA,Portable SSD,Partner,5,41.29,206.45
+2024-10-12,EMEA,Portable SSD,Online,24,41.29,990.96
+2024-10-19,ANZ,Desk Lamp,Retail,14,64.22,899.08
+2024-10-27,LATAM,Desk Lamp,Online,16,64.22,1027.52
+2024-11-03,North America,Portable SSD,Retail,40,41.29,1651.6
+2024-11-11,EMEA,Mechanical Keyboard,Partner,17,210.43,3577.31
+2024-11-18,APAC,USB-C Hub,Partner,24,100.72,2417.28
+2024-11-25,ANZ,Laptop Stand,Retail,33,14.78,487.74
+2024-12-03,ANZ,Portable SSD,Retail,14,41.29,578.06
+2024-12-10,North America,Laptop Stand,Partner,4,14.78,59.12
+2024-12-17,APAC,Laptop Stand,Online,38,14.78,561.64
+2024-12-25,LATAM,Portable SSD,Online,17,41.29,701.93
+2025-01-01,LATAM,USB-C Hub,Online,7,100.72,705.04
+2025-01-08,EMEA,Portable SSD,Retail,35,41.29,1445.15
+2025-01-16,APAC,Laptop Stand,Partner,14,14.78,206.92
+2025-01-23,EMEA,Laptop Stand,Online,25,14.78,369.5
+2025-01-31,ANZ,Portable SSD,Partner,34,41.29,1403.86
+2025-02-07,APAC,USB-C Hub,Online,26,100.72,2618.72
+2025-02-14,ANZ,USB-C Hub,Online,39,100.72,3928.08
+2025-02-22,LATAM,Desk Lamp,Online,38,64.22,2440.36
+2025-03-01,ANZ,USB-C Hub,Partner,4,100.72,402.88
+2025-03-08,North America,HD Webcam,Online,3,26.17,78.51
+2025-03-16,EMEA,HD Webcam,Online,4,26.17,104.68
+2025-03-23,ANZ,HD Webcam,Retail,26,26.17,680.42
+2025-03-30,APAC,Laptop Stand,Partner,24,14.78,354.72
+2025-04-07,North America,Portable SSD,Online,8,41.29,330.32
+2025-04-14,LATAM,Laptop Stand,Retail,5,14.78,73.9
+2025-04-22,LATAM,Mechanical Keyboard,Online,4,210.43,841.72
+2025-04-29,APAC,Laptop Stand,Retail,11,14.78,162.58
+2025-05-06,EMEA,HD Webcam,Online,5,26.17,130.85
+2025-05-14,North America,Portable SSD,Partner,6,41.29,247.74
+2025-05-21,APAC,Portable SSD,Partner,28,41.29,1156.12
+2025-05-28,North America,Desk Lamp,Retail,22,64.22,1412.84
+2025-06-05,North America,USB-C Hub,Partner,22,100.72,2215.84
+2025-06-12,APAC,Wireless Mouse,Partner,11,34.72,381.92
+2025-06-19,North America,HD Webcam,Retail,40,26.17,1046.8
+2025-06-27,APAC,Desk Lamp,Retail,39,64.22,2504.58
+2025-07-04,ANZ,USB-C Hub,Partner,19,100.72,1913.68
+2025-07-12,LATAM,HD Webcam,Retail,17,26.17,444.89
+2025-07-19,ANZ,HD Webcam,Partner,32,26.17,837.44
+2025-07-26,LATAM,Standing Desk,Retail,17,160.66,2731.22
+2025-08-03,LATAM,HD Webcam,Online,14,26.17,366.38
+2025-08-10,APAC,Laptop Stand,Retail,12,14.78,177.36
+2025-08-17,LATAM,HD Webcam,Online,17,26.17,444.89
+2025-08-25,LATAM,Laptop Stand,Online,6,14.78,88.68
+2025-09-01,APAC,HD Webcam,Partner,4,26.17,104.68
+2025-09-08,ANZ,USB-C Hub,Online,25,100.72,2518
+2025-09-16,ANZ,Standing Desk,Retail,12,160.66,1927.92
+2025-09-23,EMEA,USB-C Hub,Online,38,100.72,3827.36
+2025-10-01,LATAM,Portable SSD,Partner,28,41.29,1156.12
+2025-10-08,APAC,HD Webcam,Partner,28,26.17,732.76
+2025-10-15,APAC,Laptop Stand,Partner,14,14.78,206.92
+2025-10-23,APAC,HD Webcam,Retail,2,26.17,52.34
+2025-10-30,APAC,Laptop Stand,Retail,37,14.78,546.86
+2025-11-06,ANZ,USB-C Hub,Partner,9,100.72,906.48
+2025-11-14,APAC,HD Webcam,Online,30,26.17,785.1
+2025-11-21,North America,Portable SSD,Partner,8,41.29,330.32
+2025-11-28,LATAM,Laptop Stand,Online,23,14.78,339.94
+2025-12-06,LATAM,HD Webcam,Retail,17,26.17,444.89
+2025-12-13,LATAM,Laptop Stand,Retail,31,14.78,458.18
+2025-12-21,ANZ,Desk Lamp,Online,31,64.22,1990.82
+2025-12-28,North America,Wireless Mouse,Partner,33,34.72,1145.76
+2026-01-04,North America,USB-C Hub,Retail,29,100.72,2920.88
+2026-01-12,EMEA,HD Webcam,Retail,14,26.17,366.38
+2026-01-19,APAC,Laptop Stand,Online,16,14.78,236.48
+2026-01-26,North America,Portable SSD,Retail,25,41.29,1032.25
+2026-02-03,EMEA,HD Webcam,Partner,15,26.17,392.55
+2026-02-10,ANZ,Laptop Stand,Online,13,14.78,192.14
+2026-02-17,North America,Desk Lamp,Partner,34,64.22,2183.48
+2026-02-25,North America,HD Webcam,Partner,10,26.17,261.7
+2026-03-04,APAC,USB-C Hub,Online,9,100.72,906.48
+2026-03-12,North America,Laptop Stand,Partner,38,14.78,561.64
+2026-03-19,North America,Portable SSD,Online,37,41.29,1527.73
+2026-03-26,APAC,USB-C Hub,Online,40,100.72,4028.8
+2026-04-03,LATAM,Portable SSD,Partner,4,41.29,165.16
+2026-04-10,EMEA,Portable SSD,Online,8,41.29,330.32
+2026-04-17,EMEA,HD Webcam,Retail,6,26.17,157.02
+2026-04-25,ANZ,USB-C Hub,Online,14,100.72,1410.08
+2026-05-02,ANZ,Laptop Stand,Retail,18,14.78,266.04
+2026-05-09,EMEA,USB-C Hub,Retail,5,100.72,503.6
+2026-05-17,APAC,Desk Lamp,Retail,4,64.22,256.88
+2026-05-24,North America,HD Webcam,Partner,13,26.17,340.21
+2026-06-01,LATAM,Laptop Stand,Retail,8,14.78,118.24
+2026-06-08,LATAM,Portable SSD,Online,22,41.29,908.38
+2026-06-15,EMEA,Portable SSD,Retail,19,41.29,784.51
+2026-06-23,North America,Portable SSD,Online,9,41.29,371.61
+2026-06-30,ANZ,Portable SSD,Online,12,41.29,495.48
