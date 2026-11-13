@@ -1,6 +1,17 @@
 # 📊 Sales Performance Analysis
 
 **An end-to-end data analytics project using Python, SQL, and Power BI to analyse sales performance across products, regions, sales channels, and time periods.**
+**Dashboard**
+
+### Project Overview
+![Project Overview](Dashboard(1).png)
+
+### Revenue Analysis Dashboard
+![Revenue Analysis](Revenue_analysis.png)
+
+### Product Analysis Dashboard
+![Product Analysis](Product-analysis.png)
+
 
 ## 📌 Project Overview
 
