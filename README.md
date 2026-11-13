@@ -5,13 +5,13 @@
 ## Dashboard Screenshots
 
 ### Project Overview
-![Project Overview](image/Dashboard%281%29.png)
+![Project Overview](image/Dashboard.png)
 
 ### Revenue Analysis Dashboard
 ![Revenue Analysis](image/Revenue_analysis.png)
 
 ### Product Analysis Dashboard
-![Product Analysis](image/Product-analysis.png)
+![Product Analysis](image/Product_analysis.png)
 
 
 ## 📌 Project Overview
