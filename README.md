@@ -4,13 +4,13 @@
 **Dashboard**
 
 ### Project Overview
-![Project Overview](Dashboard(1).png)
+![Project Overview](image/Dashboard(1).png)
 
 ### Revenue Analysis Dashboard
-![Revenue Analysis](Revenue_analysis.png)
+![Revenue Analysis](image/Revenue_analysis.png)
 
 ### Product Analysis Dashboard
-![Product Analysis](Product-analysis.png)
+![Product Analysis](image/Product-analysis.png)
 
 
 ## 📌 Project Overview
